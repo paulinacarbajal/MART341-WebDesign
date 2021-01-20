@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Paulina Carbajal' MART341-WebDesign
 Respository for my Introduction to Web Design &amp; Development Homework
