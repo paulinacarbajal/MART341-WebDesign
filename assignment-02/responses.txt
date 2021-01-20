@@ -1,0 +1,16 @@
+How is the world wide web differnt than the internet?
+-the world wide web are the pages you see when you are online, but the internet is the network of connected computers 
+that the web works on and what files travel across.
+
+Briefly describe how the internet works.
+- the internet is a worldwide computer network that transmits a variety of data and media across interconnected devices, 
+this works by using a packet routing network that follows an Internet Protocol or (IP) and Transport Control Protocol (TCP)
+
+What is a directory and what is the relationship to files?
+-We organize different files or folders into directories, each subdirectory is like a child to the parent and so on. 
+
+How will VCS benefit you?
+- A version control system can help you look at the changes you make to your project's files and how they change over time. 
+
+What is your favorite kind of art?
+-I really like painting or coloring, or doodling and sketching. 
