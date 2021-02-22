@@ -1,0 +1,5 @@
+Each main document has one head and body element but inside each element you can add different attributes to showcase exactly how you want the main document to look. The head elements tell the browser and processor info about the HTML document, including things like the title, author and date. The body is pretty much everything else about the site and where it is stored. This is data is then rendered by a browser and displayed on a client's local computer.
+
+Structural markup embeds info about the structure of a document. This includes elements like headings, paragraphs, breaks and lists. While semantic markup reinforces meaning of information in the document. This provides more emphasis on certain words or phrases. This includes elements like bold or strong, italics, subscript, abbreviations, citations etc..
+
+So far I think this has been my favorite assignment so far. At first I was definitely intimidated by coding but I like that we keep building onto new things we learn and how it can all come together. I think I am getting more comfortable embedding links but I forgot how we can see a preview of our work. A refresher on that would be appreciated. 
