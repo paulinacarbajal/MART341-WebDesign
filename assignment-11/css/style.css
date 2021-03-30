@@ -1,0 +1,45 @@
+div{
+  text-align:left;
+  line-height: 1.5em
+  font-family: Times, sans-serif;
+  margin-bottom: 10px;
+  padding: 2px;
+
+}
+
+h1, h2 ,h3{
+  text-align:center;
+  font-family: Merriweather, sans-serif;
+
+
+}
+
+.Chapter 21: Millions of Mirrors{
+  color: black
+  font-size: 20px;
+  text-indent:10px;
+  font-weight:600:
+}
+
+.Chapter21: Millions of Mirrors: first-line{
+  font-size: 20px
+
+}
+
+
+}
+#book_info:hover{
+  font-family: Merriweather, sans-serif;
+  text-decoration: underline;
+  font-weight:600;
+
+}
+table{
+  border: 1px solid black;
+  font-family: Times, sans-serif;
+  font-weight:600;
+
+}
+p{
+  font-family: Times, sans-serif;
+}

@@ -1,0 +1,5 @@
+1.)System fonts are already installed on our local devices and system. They are available and applicable for most programs that we use but not necessarily to the web. Web fonts are customs fonts hosted on a server, but are not available on a user's device to appear but require special elements to get called up. Lastly web-safe fonts are those that developers can count on being available by the system that is being used, both applicable with window and mac users.
+
+2.)Fallback fonts and stacks are useful when a browser tries to load a primary choice but fails and suggests other fonts to fall back on that is next in the font-family or chain. Choosing fonts is critical though because sometimes the system can pick fonts that load slowly or can affect how the words are processed.
+
+3.) I liked this weeks assignment as it made us play around more with styling and font elements. I think the examples you give are very useful and help when I do run into any challenges. Overall I like learning more about style features and the many options you can go with it. 
